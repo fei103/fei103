@@ -1,12 +1,14 @@
 ## Hi 👋
 ### I'm fei103
 
-:smiley: I'm currently a student.
+:smiley: I'm a college student.
 
-:book:I'm currently learning web programming.
+:school: I am major in Department of Information Management.
 
-:e-mail:My email:xxxxxxxx@gmail.com
+:book: I'm currently learning web programming.
 
-:smiling_face_with_three_hearts:My favorite idol is Fei.
+:e-mail: My email:xxxxxxxx@gmail.com
+
+:smiling_face_with_three_hearts: My favorite idol is Fei.
 
 
