@@ -3,7 +3,7 @@
 
 :smiley: I'm a college student.
 
-:school: I am major in Department of Information Management.
+:school: I'm major in department of information management.
 
 :book: I'm currently learning web programming.
 
